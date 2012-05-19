@@ -1,9 +1,8 @@
 jQuery-color-animation
 ======================
-jQuery plugin adds support for color animation
-Original code by Edwin Martin <edwin@bitstorm.org>
-Github repository with npm support by Jesse Tane <jesse.tane@gmail.com>
-
+jQuery plugin adds support for color animation  
+Original code by Edwin Martin <edwin@bitstorm.org>  
+Github repository and npm compatible package.json by Jesse Tane <jesse.tane@gmail.com>
 
 Licenses
 --------
@@ -31,7 +30,6 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
 
 ### GPL License
 Copyright (C) 2010 Edwin Martin
